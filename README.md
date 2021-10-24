@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Rajvinder Singh
-- 👀 I’m interested in intership as a software Engineer/Data Analyst 
-- 🌱 I’m currently learning sql, assembly as well as some front end langagues like html
+- 👋 Hi, I’m Rajvinder Singh and am a Junior at New Jersey Institute of Technology and pursuing a bachelor's in Computer Science and a minor in Data Analytics.
+- 👀 I’m interested in intership as a software Engineer / Data Analyst.
+- 🌱 I’m currently learning sql, assembly as well as some front end langagues like html.
 - 📫 you can reach me at:
-singhrajvinder748@gmail.com
-instagram: [@rajvindersingh1](https://www.instagram.com/rajvindersingh1/)
+- Gmail: singhrajvinder748@gmail.com
+- Instagram: [@rajvindersingh1](https://www.instagram.com/rajvindersingh1/)
