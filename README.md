@@ -4,3 +4,4 @@
 - 📫 you can reach me at:
 - Gmail: singhrajvinder748@gmail.com
 - Instagram: [@rajvindersingh1](https://www.instagram.com/rajvindersingh1/)
+- [Linkdin](https://www.linkedin.com/in/rajvinder-s-331304127)
