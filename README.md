@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rajvinder Singh and am a Junior at New Jersey Institute of Technology and pursuing a bachelor's in Computer Science and a minor in Data Analytics.
-- 👀 I’m interested in intership as a software Engineer / Data Analyst.
-- 🌱 I’m currently learning sql, assembly as well as some front end langagues like html.
+- 👀 I’m a fullstack developer and an incoming systems developer at Prudential Financial/PGIM.
+- 🌱 I’m always looking to learn and further enhance my coding skills.
 - 📫 you can reach me at:
 - Gmail: singhrajvinder748@gmail.com
 - Instagram: [@rajvindersingh1](https://www.instagram.com/rajvindersingh1/)
