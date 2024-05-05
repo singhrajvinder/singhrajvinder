@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rajvinder Singh and have a bachelor's in Computer Science and a minor in Data Analytics from NJIT. I am also pursuing an MBA in TECH from NJIT to broaden my horizons and think of solutions from different perspectives.
 - 👀 I’m a fullstack developer and a systems developer at Prudential Financial/PGIM.
-- 🌱 I’m always looking to learn and further enhance my coding skills.
+- 🌱 I’m always looking to learn and further enhance my skills.
 - 📫 you can reach me at:
 - Gmail: singhrajvinder748@gmail.com
 - Instagram: [@rajvindersingh1](https://www.instagram.com/rajvindersingh1/)
