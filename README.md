@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Rajvinder Singh and am a Junior at New Jersey Institute of Technology and pursuing a bachelor's in Computer Science and a minor in Data Analytics.
-- 👀 I’m a fullstack developer and an incoming systems developer at Prudential Financial/PGIM.
+- 👋 Hi, I’m Rajvinder Singh and have a bachelor's in Computer Science and a minor in Data Analytics from NJIT. I am also pursuing an MBA in TECH from NJIT to broaden my horizons and think of solutions from different perspectives.
+- 👀 I’m a fullstack developer and a systems developer at Prudential Financial/PGIM.
 - 🌱 I’m always looking to learn and further enhance my coding skills.
 - 📫 you can reach me at:
 - Gmail: singhrajvinder748@gmail.com
